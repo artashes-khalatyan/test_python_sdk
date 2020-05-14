@@ -1,0 +1,14 @@
+[distutils]
+index-servers =
+  pypi
+  pypitest
+
+[pypi]
+repository: https://github.com/sharedcount/sharedcount-python-sdk.git
+username: artashes.khalatyan
+password: youaremybff789123
+
+[pypitest]
+repository: https://testpypi.python.org/pypi
+username: artashes.khalatyan
+password: youaremybff789123

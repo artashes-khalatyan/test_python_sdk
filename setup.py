@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'sharedcount',         
-  packages = ['sharedcount'],   
-  version = '0.1',     
+  name = 'sharedcount-python-sdk',         
+  packages = ['sharedcount-python-sdk'],   
+  version = '0.2',     
   license='MIT',       
   description = '',   
   author = 'Sharedcount',                   
-  author_email = '',      
-  url = 'https://github.com/sharedcount/sharedcount-python-sdk.git',   
-  download_url = 'href="https://github.com/sharedcount/sharedcount-python-sdk/archive/master.zip"',    
+  author_email = 'artashes.khalatyan1986@gmail.com',      
+  url = 'https://github.com/artashes-khalatyan/test_sdk.git',   
+  download_url = 'href="https://github.com/artashes-khalatyan/test_sdk.git/master.zip"',    
   keywords = [''],   
   install_requires=[           
           'requests'
